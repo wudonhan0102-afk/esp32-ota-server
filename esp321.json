@@ -1,7 +1,9 @@
 {
-  "version": 1.0.2,
-  "url": "https://raw.githubusercontent.com/<帳號>/<repo>/main/firmware.bin"
+  "version": 2,
+  "url": "https://raw.githubusercontent.com/wudonhan0102-afk/esp32-ota-server/main/firmware.bin"
 }
+
+
 
 
 
